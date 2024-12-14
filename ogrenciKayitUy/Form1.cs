@@ -13,6 +13,7 @@ using System.Data.SqlClient;
 namespace ogrenciKayitUy
 {
     public partial class Form1 : Form
+        //Emircan Gürbüz - Görsel Programlama
     {
         public Form1()
         {
